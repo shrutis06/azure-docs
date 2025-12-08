@@ -10,6 +10,7 @@ ms.date: 09/23/2025
 ms.author: shrshett
 ms.custom: sfi-image-nochange
 ---
+# Track your Microsoft Azure Consumption Commitment (MACC)
 
 A Microsoft Azure Consumption Commitment (MACC) is a contractual agreement in which your organization commits to a specified level of Azure spending over a defined period. If your organization has a MACC associated with a Microsoft Customer Agreement (MCA) or Enterprise Agreement (EA) billing account, you can track key details—including start and end dates, remaining balance, and eligible spend—through the Azure portal or REST APIs.
 
